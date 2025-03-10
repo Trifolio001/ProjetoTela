@@ -16805,7 +16805,7 @@ MonoBehaviour:
   - {fileID: 1812912087}
   - {fileID: 278604204}
   listofPhrases: []
-  starHided: 1
+  starHided: 0
   animationDuration: 0.3
   delayBetweenObject: 0.05
 --- !u!1 &1492362468
